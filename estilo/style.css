@@ -27,22 +27,22 @@ body {
 
 .headline {
     padding-top: 5px;
-    width: 96%;
+    max-width: 800px;
+    min-width: 300px;
     height: auto;
-
 }
 
 .som {
-    width: 96%;
+    max-width: 800px;
+    min-width: 300px;
     height: auto;
-
 }
 
 .dra {
     padding: 0px 20px 0px -10px;
-    width: 96%;
+    max-width: 800px;
+    min-width: 300px;
     height: auto;
-
 }
 
 div.video {
