@@ -67,6 +67,7 @@ footer {
 
     font-size: min(12px, 2.4vw);
     margin-top: 40px;
+    background-color: rgb(243, 243, 243);
 }
 
 footer a {
