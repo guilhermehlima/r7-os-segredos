@@ -17,6 +17,7 @@ body {
     min-width: 300px;
     margin: auto;
     font-family: 'roboto', 'cursive',sans-serif;
+    background-color: white;
 }
 
 .menu {
