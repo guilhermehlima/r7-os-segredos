@@ -17,7 +17,7 @@ body {
     min-width: 300px;
     margin: auto;
     font-family: 'roboto', 'cursive',sans-serif;
-    background-color: rgb(246, 250, 255);
+    background-color: #f7fbff;
 }
 
 .menu {
@@ -67,7 +67,7 @@ footer {
 
     font-size: min(12px, 2.4vw);
     margin-top: 40px;
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(235, 250, 255);
 }
 
 footer a {
