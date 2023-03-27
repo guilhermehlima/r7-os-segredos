@@ -27,7 +27,6 @@ body {
 }
 
 .headline {
-    padding-top: 5px;
     max-width: 800px;
     min-width: 300px;
     height: auto;
@@ -40,7 +39,7 @@ body {
 }
 
 .dra {
-    padding: 0px 20px 0px -10px;
+    margin: 0px -3px 15px -3px;
     max-width: 800px;
     min-width: 300px;
     height: auto;
@@ -48,7 +47,7 @@ body {
 
 div.video {
     display: block;
-    margin: -13px 0px 0px 0px;  
+    margin: -4px 0px 0px 0px;  
     padding: 0px 5px 0px 5px;
 }
 
@@ -61,18 +60,18 @@ main img {
 footer {
     font-family: 'roboto','cursive',sans-serif;
     text-align: center;
-    color: #7A7A7A;
+    color: #ffffff;
     padding: 10px;
     line-height: 1.5em;
 
     font-size: min(12px, 2.4vw);
     margin-top: 40px;
-    background-color: rgb(235, 250, 255);
+    background-color: #218ee1f5;
 }
 
 footer a {
     text-decoration: none;
-    color: #8F3366;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -81,5 +80,5 @@ footer a:hover {
 }
 
 footer p {
-    padding: 3px;
+    padding: 5px;
 }
