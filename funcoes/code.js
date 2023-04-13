@@ -96,8 +96,6 @@
 
 
 
-        // Adiciona um listener de evento de rolagem
         window.addEventListener('scroll', function() {
-        // código a ser executado ao rolar
     }, { passive: true });
   
