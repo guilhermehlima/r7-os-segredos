@@ -16,7 +16,7 @@ body {
     max-width: 800px;
     min-width: 300px;
     margin: auto;
-    font-family: 'roboto', 'cursive',sans-serif;
+    font-family: 'roboto', Arial, sans-serif;
     background-color: #f7fbff;
 }
 
