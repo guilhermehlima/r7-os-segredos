@@ -11,7 +11,7 @@
                     b.location.hash = "#";
                     if (b.location.search == null || b.location.search == undefined || b.location.search ==
                         '') {
-                        b.location.href = "https://pay.kiwify.com.br/LKZhfbc?src=redirect";
+                        b.location.href = "https://pay.kiwify.com.br/dnG1t2g?src=redirect";
                     } else {
                         if (location.search.indexOf("src") > -1) {
                             var partes = location.search.slice(1).split('&');
@@ -27,9 +27,9 @@
                             new_search += JSON.stringify(data).replace(/[{}"]/g, "").replace(/[:]/g, "=")
                                 .replace(/[,]/g, "&");
     
-                            b.location.href = "https://pay.kiwify.com.br/LKZhfbc?src=redirect" + new_search;
+                            b.location.href = "https://pay.kiwify.com.br/dnG1t2g?src=redirect" + new_search;
                         } else {
-                            b.location.href = "https://pay.kiwify.com.br/LKZhfbc?src=redirect" + b.location.search + "&src=back_oferta";
+                            b.location.href = "https://pay.kiwify.com.br/dnG1t2g?src=redirect" + b.location.search + "&src=back_oferta";
                         }
                     }
                 }
@@ -53,7 +53,7 @@
                         // b.location.hash = "#";
                         if (b.location.search == null || b.location.search == undefined || b.location.search ==
                             '') {
-                            b.location.href = "https://pay.kiwify.com.br/LKZhfbc?src=redirect";
+                            b.location.href = "https://pay.kiwify.com.br/dnG1t2g?src=redirect";
                         } else {
                             if (location.search.indexOf("src") > -1) {
                                 var partes = location.search.slice(1).split('&');
@@ -69,9 +69,9 @@
                                 new_search += JSON.stringify(data).replace(/[{}"]/g, "").replace(/[:]/g, "=")
                                     .replace(/[,]/g, "&");
     
-                                b.location.href = "https://pay.kiwify.com.br/LKZhfbc?src=redirect" + new_search;
+                                b.location.href = "https://pay.kiwify.com.br/dnG1t2g?src=redirect" + new_search;
                             } else {
-                                b.location.href = "https://pay.kiwify.com.br/LKZhfbc?src=redirect" + b.location.search + "&src=back_oferta";
+                                b.location.href = "https://pay.kiwify.com.br/dnG1t2g?src=redirect" + b.location.search + "&src=back_oferta";
                             }
                         }
                     }
